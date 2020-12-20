@@ -1,0 +1,3 @@
+module StickGame {
+	requires spigot;
+}

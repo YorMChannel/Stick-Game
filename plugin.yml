@@ -1,0 +1,9 @@
+name: StickGame
+api: ["1.16"]
+version: 1.0.0
+main: StickGame.StickGame
+author: YorMChannel
+
+commands: 
+  sg: 
+    description: Command of StickGame Plugin
